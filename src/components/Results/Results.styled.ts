@@ -4,7 +4,7 @@ import { tablet } from "../../utils/mixins";
 export const ResultsContainer = styled.section`
     background-color: ${({ theme }) => theme.colors.slate900};
     color: ${({ theme }) => theme.colors.slate300};
-    border-radius: 0 1rem 1rem 2rem;
+    border-radius: 0 1rem 1rem 5rem;
     padding: 2rem;
     width: 100%;
 
