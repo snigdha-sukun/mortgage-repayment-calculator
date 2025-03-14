@@ -5,7 +5,7 @@ const EmptyResult = () => {
 	return (
 		<EmptyResultContainer>
 			<div>
-				<img src="/illustration-empty.svg" alt="Empty Result" />
+				<img src="/illustration-empty.svg" alt="Empty Result" width="100%" height="100%" />
 			</div>
 			<Heading2>Results shown here</Heading2>
 			<Paragraph>

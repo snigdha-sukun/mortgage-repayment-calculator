@@ -24,7 +24,6 @@ const CalculatedResult = () => {
 	} = useMortgage();
 	return (
 		<CalculatedResultContainer>
-			{/* Completed results start */}
 			<Heading2>Your results</Heading2>
 			Your results are shown below based on the information you provided. To
 			adjust the results, edit the form and click “calculate repayments” again.
@@ -45,7 +44,6 @@ const CalculatedResult = () => {
 					</Heading2>
 				</ResultDetails>
 			</ResultAmtContainer>
-			{/* Completed results end */}
 		</CalculatedResultContainer>
 	);
 };
