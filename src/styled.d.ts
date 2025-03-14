@@ -11,6 +11,9 @@ declare module "styled-components" {
 			slate500: string;
 			slate700: string;
 			slate900: string;
+			slate1000: string;
+			lightLime: string;
+			lightestLime: string;
 		};
 		fontSizes: {
 			base: string;

@@ -8,6 +8,9 @@ export const theme = {
 		slate500: "hsl(200, 26%, 54%)",
 		slate700: "hsl(200, 24%, 40%)",
 		slate900: "hsl(202, 55%, 16%)",
+		slate1000: "hsl(200, 55%, 12%)",
+		lightLime: "hsla(61, 70%, 52%, 0.5)",
+		lightestLime: "hsla(61, 70%, 52%, 0.2)",
 	},
 	fontSizes: {
 		base: "16px",
